@@ -1,0 +1,12 @@
+{
+  "name": "bustsec-telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot to link to the Bust the SEC game.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
